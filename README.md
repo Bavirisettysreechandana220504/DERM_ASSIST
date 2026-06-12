@@ -42,4 +42,37 @@ npm run android:open
 - `www/` - Synced web assets for Capacitor.
 - `android/` - Capacitor Android project.
 
+  # Derm Assist AI
+
+## Project Overview
+
+Derm Assist AI is a healthcare web application developed as an academic project. The system helps users manage their profile, access healthcare-related information, view doctor recommendations, book appointments, and explore skincare products.
+
+## Features
+
+* User Registration and Login
+* Profile Management
+* Doctor Recommendations
+* Appointment Booking
+* Product Recommendations
+* Responsive User Interface
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* Flask
+* SQLite
+
+## Live Demo
+
+Netlify: magenta-gingersnap-b40f1d.netlify.app
+
+## Developer
+
+Bavirisetty Sree Chandana
+
+
   
